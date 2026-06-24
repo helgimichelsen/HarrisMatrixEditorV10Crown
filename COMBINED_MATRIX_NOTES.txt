@@ -1,0 +1,12 @@
+Combined HMCX V9.1 corrections:
+- Natural/Geology is below Unexcavated.
+- Phases included as dashed horizontal line annotations.
+- Structural boxes included as annotations: Bygning F14 and F22 stenrække.
+- Unexcavated and Natural/Geology boxes widened.
+- F8/F29 merged as F8=F29.
+- F!10 corrected to F110.
+- F14 and F22 set as Structural.
+- F21 and F104 set as Deposit.
+- Removed cycle-conflict edge(s): [('F111', 'F31')]
+
+Note: HMCX does not standardise custom phase/box annotations; V9.1 reads these annotations from project.xml, and Harris Matrix Composer should still read the matrix.xml graph.
